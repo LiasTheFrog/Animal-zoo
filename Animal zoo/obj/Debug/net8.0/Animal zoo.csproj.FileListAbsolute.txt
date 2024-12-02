@@ -1,0 +1,14 @@
+C:\Users\li5236\OneDrive - LYSTKOM\C#\Animal zoo\Animal zoo\bin\Debug\net8.0\Animal zoo.exe
+C:\Users\li5236\OneDrive - LYSTKOM\C#\Animal zoo\Animal zoo\bin\Debug\net8.0\Animal zoo.deps.json
+C:\Users\li5236\OneDrive - LYSTKOM\C#\Animal zoo\Animal zoo\bin\Debug\net8.0\Animal zoo.runtimeconfig.json
+C:\Users\li5236\OneDrive - LYSTKOM\C#\Animal zoo\Animal zoo\bin\Debug\net8.0\Animal zoo.dll
+C:\Users\li5236\OneDrive - LYSTKOM\C#\Animal zoo\Animal zoo\bin\Debug\net8.0\Animal zoo.pdb
+C:\Users\li5236\OneDrive - LYSTKOM\C#\Animal zoo\Animal zoo\obj\Debug\net8.0\Animal zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\li5236\OneDrive - LYSTKOM\C#\Animal zoo\Animal zoo\obj\Debug\net8.0\Animal zoo.AssemblyInfoInputs.cache
+C:\Users\li5236\OneDrive - LYSTKOM\C#\Animal zoo\Animal zoo\obj\Debug\net8.0\Animal zoo.AssemblyInfo.cs
+C:\Users\li5236\OneDrive - LYSTKOM\C#\Animal zoo\Animal zoo\obj\Debug\net8.0\Animal zoo.csproj.CoreCompileInputs.cache
+C:\Users\li5236\OneDrive - LYSTKOM\C#\Animal zoo\Animal zoo\obj\Debug\net8.0\Animal zoo.dll
+C:\Users\li5236\OneDrive - LYSTKOM\C#\Animal zoo\Animal zoo\obj\Debug\net8.0\refint\Animal zoo.dll
+C:\Users\li5236\OneDrive - LYSTKOM\C#\Animal zoo\Animal zoo\obj\Debug\net8.0\Animal zoo.pdb
+C:\Users\li5236\OneDrive - LYSTKOM\C#\Animal zoo\Animal zoo\obj\Debug\net8.0\Animal zoo.genruntimeconfig.cache
+C:\Users\li5236\OneDrive - LYSTKOM\C#\Animal zoo\Animal zoo\obj\Debug\net8.0\ref\Animal zoo.dll
